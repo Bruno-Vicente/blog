@@ -1,4 +1,4 @@
-baseurl = "hipotese-alternativa.netlify.app"
+baseurl = "https://hipotese-alternativa.netlify.app"
 DefaultContentLanguage = "br"
 #DefaultContentLanguage = "ja"
 title = "Hipótese Alternativa"
